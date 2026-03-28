@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Zero Secret Auth icon</title>
+  <desc id="desc">Shielded lock icon for authentication research landing page.</desc>
+  <rect width="64" height="64" rx="16" fill="#0f172a"/>
+  <path d="M22 28v-6c0-5.523 4.477-10 10-10s10 4.477 10 10v6" fill="none" stroke="#e5eefc" stroke-width="4.5" stroke-linecap="round"/>
+  <rect x="16" y="28" width="32" height="24" rx="6" fill="#e5eefc"/>
+  <path d="M32 35.5a4 4 0 0 0-2 7.46V47a2 2 0 1 0 4 0v-4.04a4 4 0 0 0-2-7.46Z" fill="#0f172a"/>
+</svg>
